@@ -2,7 +2,7 @@
 ![Version](https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://mit-license.org)
 
-> Mega sena's brazil lotery | random a list of 6 numbers (between 1 an 60) and set on an ul html element
+> Mega sena's brazil lottery | random a list of 6 numbers (between 1 an 60) and set on an ul html element
 
 ## Usage
 
