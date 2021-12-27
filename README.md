@@ -4,6 +4,8 @@
 
 > Mega sena's brazil lottery | random a list of 6 numbers (between 1 an 60) and set on an ul html element
 
+<img src="./.github/print.png"></img>
+
 ## Usage
 
 ```sh
